@@ -1,0 +1,43 @@
+[1.155s] Invoking command in '/home/mohit/eyrc_hb/ESP_CHECK/build/esp_pub': PYTHONPATH=/home/mohit/eyrc_hb/ESP_CHECK/build/esp_pub/prefix_override:/home/mohit/eyrc_hb/ESP_CHECK/install/esp_pub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/mohit/eyrc_hb/ESP_CHECK/build/esp_pub/build --no-deps install_data
+[1.510s] running develop
+[1.511s] /home/mohit/.local/lib/python3.10/site-packages/setuptools/command/develop.py:40: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[1.511s] !!
+[1.511s] 
+[1.511s]         ********************************************************************************
+[1.511s]         Please avoid running ``setup.py`` and ``easy_install``.
+[1.511s]         Instead, use pypa/build, pypa/installer or other
+[1.511s]         standards-based tools.
+[1.511s] 
+[1.511s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[1.511s]         ********************************************************************************
+[1.511s] 
+[1.511s] !!
+[1.511s]   easy_install.initialize_options(self)
+[1.547s] /home/mohit/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[1.547s] !!
+[1.547s] 
+[1.547s]         ********************************************************************************
+[1.547s]         Please avoid running ``setup.py`` directly.
+[1.547s]         Instead, use pypa/build, pypa/installer or other
+[1.547s]         standards-based tools.
+[1.548s] 
+[1.548s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[1.548s]         ********************************************************************************
+[1.548s] 
+[1.548s] !!
+[1.548s]   self.initialize_options()
+[1.762s] running egg_info
+[1.780s] writing esp_pub.egg-info/PKG-INFO
+[1.780s] writing dependency_links to esp_pub.egg-info/dependency_links.txt
+[1.781s] writing entry points to esp_pub.egg-info/entry_points.txt
+[1.781s] writing requirements to esp_pub.egg-info/requires.txt
+[1.781s] writing top-level names to esp_pub.egg-info/top_level.txt
+[1.817s] reading manifest file 'esp_pub.egg-info/SOURCES.txt'
+[1.818s] writing manifest file 'esp_pub.egg-info/SOURCES.txt'
+[1.837s] running build_ext
+[1.838s] Creating /home/mohit/eyrc_hb/ESP_CHECK/install/esp_pub/lib/python3.10/site-packages/esp-pub.egg-link (link to .)
+[1.838s] Installing esp_check script to /home/mohit/eyrc_hb/ESP_CHECK/install/esp_pub/lib/esp_pub
+[1.839s] 
+[1.839s] Installed /home/mohit/eyrc_hb/ESP_CHECK/build/esp_pub
+[1.839s] running install_data
+[1.871s] Invoked command in '/home/mohit/eyrc_hb/ESP_CHECK/build/esp_pub' returned '0': PYTHONPATH=/home/mohit/eyrc_hb/ESP_CHECK/build/esp_pub/prefix_override:/home/mohit/eyrc_hb/ESP_CHECK/install/esp_pub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/mohit/eyrc_hb/ESP_CHECK/build/esp_pub/build --no-deps install_data

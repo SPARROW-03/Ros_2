@@ -1,0 +1,2 @@
+[console_scripts]
+esp_check = esp_pub.esp_pub:main
