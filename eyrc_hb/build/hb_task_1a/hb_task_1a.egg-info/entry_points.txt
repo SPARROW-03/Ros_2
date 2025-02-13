@@ -1,0 +1,3 @@
+[console_scripts]
+draw_snowman = hb_task_1a.task_1a_1476:main
+
